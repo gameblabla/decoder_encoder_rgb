@@ -1,0 +1,9 @@
+*.7z
+*.o
+*.exe
+*.tar.xz
+*.bin
+*.elf
+stdout.txt
+*.bmp
+*.png
