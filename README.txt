@@ -5,4 +5,4 @@ It's quite simple and could even be potentially be decoded on older computers.
 
 You can build it for both MinGW (assuming you have SDL and SDL_image available) and Linux with the respective makefiles.
 
-TODO : Remove SDL dependency
+TODO : Remove SDL dependency and make a web version of it (One that is fully static and Javascript based if possible).
